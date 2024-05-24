@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "9P9wkJsblZ/24dhGGaTuKXkaL4VInm05rGrNjVoJ9e/6zml7a1UdToZvLDXgwmTZyQNgirN9SWlkJWQImq5TYg==",
+  "success": true,
+  "projectFilePath": "D:\\a\\api\\web-app-user\\web-app-user\\web-app-user.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.5\\microsoft.data.sqlite.core.8.0.5.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlcipher\\2.1.8\\sqlitepclraw.bundle_e_sqlcipher.2.1.8.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\sqlitepclraw.core\\2.1.8\\sqlitepclraw.core.2.1.8.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\sqlitepclraw.lib.e_sqlcipher\\2.1.8\\sqlitepclraw.lib.e_sqlcipher.2.1.8.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\sqlitepclraw.provider.e_sqlcipher\\2.1.8\\sqlitepclraw.provider.e_sqlcipher.2.1.8.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
